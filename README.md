@@ -19,6 +19,6 @@ A **Windows 10** like calculator as a response to the [TOP.](https://www.theodin
   2. Calculation history side-bar
   3. Comments to make the code understandable
   
-You can visit the vebsite [here.](https://memindemir06.github.io/calculator/)
+You can visit the website [here.](https://memindemir06.github.io/calculator/)
 
 **Disclaimer:** This calculator is definitely not bug-free. 😅
