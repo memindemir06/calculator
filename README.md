@@ -1,6 +1,6 @@
 # The Calculator
 
-A **Windows 10** like calculator as a response to the [TOP](https://www.theodinproject.com/) 🔱
+A **Windows 10** like calculator as a response to the [TOP.](https://www.theodinproject.com/) 🔱
 
 ## Used Skills:
   - HTML
@@ -18,5 +18,7 @@ A **Windows 10** like calculator as a response to the [TOP](https://www.theodinp
   1. Negate button
   2. Calculation history side-bar
   3. Comments to make the code understandable
+  
+You can visit the vebsite [here.](https://memindemir06.github.io/calculator/)
 
 **Disclaimer:** This calculator is definitely not bug-free. 😅
